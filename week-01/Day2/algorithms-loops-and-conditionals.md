@@ -37,7 +37,7 @@
     - `===` - check if this is exacly the same.
         - Use this one where possible!
 - Example:
-  ```javascript
+  javascript
   // Get the current hour of the day.
   let t = date('H');
 
